@@ -43,8 +43,6 @@ input {
   z-index: 1;
 }
 .chat-box{
-  background-image: url("https://t3.ftcdn.net/jpg/03/27/51/56/360_F_327515607_Hcps04aaEc7Ki43d1XZPxwcv0ZaIaorh.jpg");
-  background-attachment: fixed;
   background-size: cover;
   background-position: center;
   height: 100vh;
